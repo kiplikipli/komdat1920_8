@@ -10,8 +10,10 @@ Try online at kiplikipli.my.id
 
 - [1. Contents](#contents)
 - [2. About](#about)
-- [3. Running Locally](#running-locally)
+- [3. Run Locally](#run-locally)
 - [4. Installation in Virtual Machine](#installation-in-virtual-machine)
+
+# About
 
 # Run Locally
 
