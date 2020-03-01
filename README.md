@@ -4,7 +4,7 @@ A "Flappy Bird" clone made with MelonJS.
 
 [![Github](https://img.shields.io/badge/Credit-Github-black)](https://github.com/ellisonleao/clumsy-bird)
 
-Try online at kiplikipli.my.id
+Try online at http://kiplikipli.my.id
 
 # Contents
 
