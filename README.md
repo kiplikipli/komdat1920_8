@@ -12,7 +12,8 @@ Try online at http://kiplikipli.my.id
 - [4. Installation in Virtual Machine](#installation-in-virtual-machine)
 - [5. Customization](#customization)
 - [6. How to Play](#how-to-play)
-- [7. Resume](#resume)
+- [7. Discussion](#discussion)
+- [8. References](#references)
 
 # About
 Clumsy bird is A "Flappy Bird" clone made with MelonJS. Where Flappy Bird itself is a mobile game developed by Vietnamese video game artist and programmer Dong Nguyen, under his game development company dotGears. The game is a side-scroller where the player controls a bird, attempting to fly between columns of green pipes without hitting them.The objective is to direct a flying bird who moves continuously to the right, between sets of Mario-like pipes. If the player touches the pipes, they lose.  
@@ -98,7 +99,7 @@ If you want to add your own assets to the game, this is the list of the assets u
 
 ![game3](game3.png)
 
-# Resume
+# Discussion
 
 - Advantages  
 1. Easy to build
@@ -108,7 +109,6 @@ If you want to add your own assets to the game, this is the list of the assets u
 - Disadvantages
 1. Stiff motion because lack of frames
 2. No database for storing high score
-3. 
 
 # References
 
