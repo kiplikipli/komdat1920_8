@@ -10,6 +10,9 @@ Try online at http://kiplikipli.my.id
 - [2. About](#about)
 - [3. Run Locally](#run-locally)
 - [4. Installation in Virtual Machine](#installation-in-virtual-machine)
+- [5. Customization](#customization)
+- [6. How to Play](#how-to-play)
+- [7. Resume](#resume)
 
 # About
 Clumsy bird is A "Flappy Bird" clone made with MelonJS. Where Flappy Bird itself is a mobile game developed by Vietnamese video game artist and programmer Dong Nguyen, under his game development company dotGears. The game is a side-scroller where the player controls a bird, attempting to fly between columns of green pipes without hitting them.The objective is to direct a flying bird who moves continuously to the right, between sets of Mario-like pipes. If the player touches the pipes, they lose.  
@@ -74,3 +77,46 @@ If you want to add your own assets to the game, this is the list of the assets u
 - [logo.png](https://raw.githubusercontent.com/ellisonleao/clumsy-bird/gh-pages/data/img/logo.png) - Size: `351x145px`. The game logo.
 - [new.png](https://raw.githubusercontent.com/ellisonleao/clumsy-bird/gh-pages/data/img/new.png) - Size: `48x48px`. This is the NEW notification when the user reaches a new score.
 - [pipe.png](https://raw.githubusercontent.com/ellisonleao/clumsy-bird/gh-pages/data/img/pipe.png) - Size: `148x1664px`. Why the hell this is so big?! Because of the logic used for the random pipes position.
+
+# How to Play
+
+1. Open the game in your browser.
+
+![game0](game0.png)
+
+2. To start the game, press space or click left mouse.
+
+3. Controls the bird, attempting to fly between columns of green pipes without hitting them.
+
+![game1](game1.png)
+
+4. Dont touch the pipe! If you touch the pipes, you lose.
+
+![game2](game2.png)
+
+5. And your game will be over!
+
+![game3](game3.png)
+
+# Resume
+
+- Advantages  
+1. Easy to build
+2. Easy [Customization](#customization)
+3. Fun and easy to play
+4. Multi platform because it's in web browser ( mobile and desktop )
+- Disadvantages
+1. Stiff motion because lack of frames
+2. No database for storing high score
+3. 
+
+# References
+
+- How to Install Apache2 in Ubuntu  
+( https://phoenixnap.com/kb/how-to-install-apache-web-server-on-ubuntu-18-04 )
+
+- How to Install Virtual Box in Ubuntu  
+( https://vitux.com/how-to-install-virtualbox-on-ubuntu/ )
+
+- How To Move an Apache Web Root to a New Location on Ubuntu 16.04  
+( https://www.digitalocean.com/community/tutorials/how-to-move-an-apache-web-root-to-a-new-location-on-ubuntu-16-04 )
