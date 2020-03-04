@@ -61,3 +61,18 @@ Try online at http://kiplikipli.my.id
 7. Open localhost:**port** in your host pc, where **port** is the port that you have already set while you set the virtual machine
    > ![Game](Game.png)
 8. Play the game!
+
+# Kustomisasi
+
+Memainkan versi yang berbeda dengan tampilan yang berbeda dari versi biasa dapat memberikan pengalaman dan kesenangan baru bagi pengguna.
+kostumisasi tersebut mungkin dilakukan dengan asset yang kamu miliki, berikut adalah daftar dari asset yang digunakan pada game ini. Kamu hanya perlu menggantinya dengan apa yang kamu inginkan. Hanya perlu ingat nama dan ukuran yang diperlukan.
+
+- [bg.png](https://raw.githubusercontent.com/ellisonleao/clumsy-bird/gh-pages/data/img/bg.png) - Size: `900x504px`. Tampilan background yang digunakan pada game.
+- [clumsy.png](https://raw.githubusercontent.com/ellisonleao/clumsy-bird/gh-pages/data/img/clumsy.png) - Size: `255x60px` . Gambar animasi dari burung dalam game. Terdapat 3 frame animasi.
+- [gameover.png](https://raw.githubusercontent.com/ellisonleao/clumsy-bird/gh-pages/data/img/gameover.png) - Size: `245x132px`. Logo gameover di dalam game.
+- [gameoverbg.png](https://raw.githubusercontent.com/ellisonleao/clumsy-bird/gh-pages/data/img/gameoverbg.png) - Size: `505x361px`. Kotak background saat gameover yang digunakan untuk tampilan skor.
+- [getready.png](https://raw.githubusercontent.com/ellisonleao/clumsy-bird/gh-pages/data/img/getready.png) - Size: `405x134px`. Pesan saat memulai game.
+- [ground.png](https://raw.githubusercontent.com/ellisonleao/clumsy-bird/gh-pages/data/img/ground.png) - Size: `900x96px`. animasi permukaan tanah dalam game.
+- [logo.png](https://raw.githubusercontent.com/ellisonleao/clumsy-bird/gh-pages/data/img/logo.png) - Size: `351x145px`. Logo dari game.
+- [new.png](https://raw.githubusercontent.com/ellisonleao/clumsy-bird/gh-pages/data/img/new.png) - Size: `48x48px`. Notifikasi saat pengguna mencapai skor tertinggi yang baru.
+- [pipe.png](https://raw.githubusercontent.com/ellisonleao/clumsy-bird/gh-pages/data/img/pipe.png) - Size: `148x1664px`. Pipa yang digunakan untuk menapilkan rintangan secara random.
